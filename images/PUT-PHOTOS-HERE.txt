@@ -1,0 +1,25 @@
+PUT YOUR PHOTOS IN THIS FOLDER
+==============================
+
+Name each file EXACTLY as below: all lowercase, ending in .jpg.
+GitHub Pages is case-sensitive, so "Hero.JPG" will NOT work.
+
+FILE NAME                          WHAT GOES THERE
+---------------------------------  ---------------------------------------------------------------
+hero-kaf-pastry-display.jpg        King Arthur pastry display with cinnamon buns, labels, and prices
+                                   (top of page; shown tall, roughly portrait 4:5)
+ch1-fern-pastry-shelves.jpg        Pastries on the glass shelves at the Fern
+ch1-fern-counter.jpg               Customer at the Fern counter while an employee prepares an order
+ch2-kaf-display-case.jpg           Finished pastries in a bakery display case
+ch3-dough-and-scale.jpg            Dough in a large container beside the commercial scale at KAF
+ch4-kaf-bakery-rack.jpg            Tall wheeled bakery rack with trays at KAF (portrait works best)
+ch4-kaf-delivery-van.jpg           KAF delivery van parked outside
+ch4-white-delivery-bins.jpg        Stacks of reusable white delivery bins at the Fern
+ch4-fern-register.jpg              Fern employee at the register beside the pastry display
+
+TIPS
+- iPhone photos are often .HEIC. Export or convert them to .jpg first.
+- Resize to about 2000 px on the long side (around 300-600 KB each) so the site loads fast.
+- If a photo is missing, the site shows a dashed box naming the exact file it expects.
+- To change a photo's shape, edit style="--ratio: 3 / 2" on its .media__frame in index.html
+  (e.g. 4 / 5 for portrait, 16 / 9 for wide). Add "--fit: contain" to avoid cropping.
