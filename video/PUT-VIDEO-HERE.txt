@@ -1,0 +1,16 @@
+PUT YOUR VIDEO IN THIS FOLDER
+=============================
+
+FILE NAME                          WHAT GOES THERE
+---------------------------------  ---------------------------------------------------------------
+ch3-bakers-cutting-dough.mp4       Bakers cutting and weighing dough at King Arthur (Chapter 3)
+
+Until this file exists, the site automatically embeds your Google Drive copy instead:
+https://drive.google.com/file/d/1c7J-MwCtyEsmp-YV-AaLOPWIBCiX_P9Y/view
+(That Drive file must be shared as "Anyone with the link can view.")
+
+TIPS
+- Use .mp4 (H.264). Most phones and editors export this by default.
+- Keep it under about 25 MB: GitHub's website uploader rejects files over 25 MB,
+  and GitHub blocks anything over 100 MB. HandBrake (free) can shrink it.
+- It plays muted while on screen; visitors can unmute with the controls.
